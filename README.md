@@ -1,5 +1,4 @@
-# The-first-assignment-for-IPA
-IPA 2017 Lab Exercise 1: 
+# Image Signal and Image Processing
 I have done two major tasks including:
 
 Image Transformations:
